@@ -1,0 +1,4 @@
+System Information:
+Logical CPUs: 4
+CPU Model: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+OS: Zorin OS 16.3

@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/bigint.hpp
+string
+-
+vector
+-
+cstdint
+-
+random
+-
+iostream
+-
+sstream
+-
+algorithm
+-
+stdexcept
+-
+iomanip
+-
+cassert
+-
+cmath
+-
+
+../include/chunked.hpp
+bigint.hpp
+../include/bigint.hpp
+
+../include/karatsuba.hpp
+bigint.hpp
+../include/bigint.hpp
+
+../include/parallel_chunked.hpp
+bigint.hpp
+../include/bigint.hpp
+
+../include/schoolbook.hpp
+bigint.hpp
+../include/bigint.hpp
+
+/home/adithya/Downloads/v3 - trying out parallel processing of the multiplication program/bigint-multiplication/tests/test_correctness.cpp
+bigint.hpp
+/home/adithya/Downloads/v3 - trying out parallel processing of the multiplication program/bigint-multiplication/tests/bigint.hpp
+schoolbook.hpp
+/home/adithya/Downloads/v3 - trying out parallel processing of the multiplication program/bigint-multiplication/tests/schoolbook.hpp
+karatsuba.hpp
+/home/adithya/Downloads/v3 - trying out parallel processing of the multiplication program/bigint-multiplication/tests/karatsuba.hpp
+chunked.hpp
+/home/adithya/Downloads/v3 - trying out parallel processing of the multiplication program/bigint-multiplication/tests/chunked.hpp
+parallel_chunked.hpp
+/home/adithya/Downloads/v3 - trying out parallel processing of the multiplication program/bigint-multiplication/tests/parallel_chunked.hpp
+boost/multiprecision/cpp_int.hpp
+-
+iostream
+-
+string
+-
+vector
+-
+random
+-
+

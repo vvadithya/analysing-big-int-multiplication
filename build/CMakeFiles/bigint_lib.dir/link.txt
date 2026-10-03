@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbigint_lib.a CMakeFiles/bigint_lib.dir/src/bigint.cpp.o CMakeFiles/bigint_lib.dir/src/schoolbook.cpp.o CMakeFiles/bigint_lib.dir/src/chunked.cpp.o CMakeFiles/bigint_lib.dir/src/karatsuba.cpp.o CMakeFiles/bigint_lib.dir/src/parallel_chunked.cpp.o CMakeFiles/bigint_lib.dir/src/benchmark.cpp.o
+/usr/bin/ranlib libbigint_lib.a

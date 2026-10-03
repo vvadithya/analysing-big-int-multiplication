@@ -1,0 +1,10 @@
+/home/adithya/Downloads/v3 - trying out parallel processing of the multiplication program/bigint-multiplication/build/CMakeFiles/rebuild_cache.dir
+/home/adithya/Downloads/v3 - trying out parallel processing of the multiplication program/bigint-multiplication/build/CMakeFiles/edit_cache.dir
+/home/adithya/Downloads/v3 - trying out parallel processing of the multiplication program/bigint-multiplication/build/CMakeFiles/test_correctness.dir
+/home/adithya/Downloads/v3 - trying out parallel processing of the multiplication program/bigint-multiplication/build/CMakeFiles/install.dir
+/home/adithya/Downloads/v3 - trying out parallel processing of the multiplication program/bigint-multiplication/build/CMakeFiles/list_install_components.dir
+/home/adithya/Downloads/v3 - trying out parallel processing of the multiplication program/bigint-multiplication/build/CMakeFiles/run_benchmarks.dir
+/home/adithya/Downloads/v3 - trying out parallel processing of the multiplication program/bigint-multiplication/build/CMakeFiles/bigint_benchmark.dir
+/home/adithya/Downloads/v3 - trying out parallel processing of the multiplication program/bigint-multiplication/build/CMakeFiles/install/strip.dir
+/home/adithya/Downloads/v3 - trying out parallel processing of the multiplication program/bigint-multiplication/build/CMakeFiles/install/local.dir
+/home/adithya/Downloads/v3 - trying out parallel processing of the multiplication program/bigint-multiplication/build/CMakeFiles/bigint_lib.dir

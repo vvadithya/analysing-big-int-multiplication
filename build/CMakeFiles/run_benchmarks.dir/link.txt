@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -march=native CMakeFiles/run_benchmarks.dir/benchmarks/run_benchmarks.cpp.o -o run_benchmarks  libbigint_lib.a -lpthread 
