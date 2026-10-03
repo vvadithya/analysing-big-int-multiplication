@@ -73,6 +73,4 @@ After a successful run, the following main outputs will be generated:
 - **Karatsuba**: $O(N^{1.58})$ algorithm.
 - **Parallel Implementations**: Multi-threaded variants utilizing parallel processing.
 
-## License
 
-[MIT License](LICENSE) (Placeholder)
